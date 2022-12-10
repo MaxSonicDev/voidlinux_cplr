@@ -49,5 +49,6 @@ on peut retrouver les fonctions suivants avec cette init system :
     - Création de service par utilisateur
         - Prévoir un service qui s'éxecute avec un compte utilisateur spécifique et ses propres droits. 
     - Init léger qui peut tourner facilement sur des machines avec moins de 256 Mio de ram.
+    - Gestion des services avec la commande `sv`
 
 
